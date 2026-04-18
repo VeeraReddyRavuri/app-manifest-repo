@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: app
-          image: veerareddyravuri/appname:d04c1bc20f97eaf48dc7fed50a5ee563e018a17c
+          image: veerareddyravuri/appname:2add9b82e3dcd8b548106c9ea5f2ddb79d1cd990
           ports:
             - containerPort: 8080
